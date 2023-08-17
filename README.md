@@ -1,0 +1,2 @@
+# Expenso (Expense planner app)
+ Introducing an Expense Planner App - your ultimate financial companion. Seamlessly designed and user-friendly, this app empowers you to effortlessly manage your expenses, set budgets, and track your financial goals. With intuitive features and a sleek interface, staying on top of your finances has never been this convenient. Experience a new level of financial control with our Expense Planner App.
