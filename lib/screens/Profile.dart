@@ -152,7 +152,7 @@ class _ProfileState extends State<Profile> {
                         height: MediaQuery.of(context).size.height /3,
                       ),
                       const Text(
-                        'Created By Dhruv Dhall',
+                        'Created By Dhruv Dhall!!',
                         style: TextStyle(
                             color: Colors.grey,
                             fontWeight: FontWeight.w500,
