@@ -147,7 +147,17 @@ class _ProfileState extends State<Profile> {
                           color: kPrimaryColor,
                           onpress: signoutUser,
                           textcolor: Colors.white,
-                          isloading: isloading)
+                          isloading: isloading),
+                          SizedBox(
+                        height: MediaQuery.of(context).size.height /3,
+                      ),
+                      const Text(
+                        'Created By Dhruv Dhall',
+                        style: TextStyle(
+                            color: Colors.grey,
+                            fontWeight: FontWeight.w500,
+                            fontSize: 18),
+                      )
                     ],
                   ),
                 ),
