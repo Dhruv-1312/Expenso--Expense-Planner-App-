@@ -24,10 +24,10 @@ class MyApp extends StatelessWidget {
         ),
       ],
       child: MaterialApp(
-        title: 'Expenso',
+        title: 'Expense Planner',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
-        scaffoldBackgroundColor: Colors.white),
+        scaffoldBackgroundColor: Colors.black),
         
         home: StreamBuilder(
           stream: FirebaseAuth.instance.authStateChanges(),
